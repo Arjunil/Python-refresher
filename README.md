@@ -2,8 +2,9 @@
 A refresher on python
 
 ### Goals  
-1. walk through the basics of python
-2. run through data structures
-3. make it through the data science handbook
-4. interview for jobs as a data analyst / entry level data scientist
-5. get a job in data science
+1. Walk through the basics of Python
+2. Run through data structures
+3. Make it through the Data Science Handbook
+4. Interview for jobs as a Data Analyst / entry level Data Scientist
+5. Get a job in Data Science
+6. Celebrate!!
